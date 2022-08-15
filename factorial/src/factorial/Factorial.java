@@ -17,10 +17,11 @@ public class Factorial {
 
     private static long factorial(long n) {
         long nF; //n factorail
-        if (n == 1 || n == 0) {
+        if (n == 1 || n == 0) //stopping condition
+        {
             nF = 1;
         } else {
-            nF = n * factorial(n - 1);
+            nF = n * factorial(n - 1); //recursive method call
         }
         return nF;
     }
