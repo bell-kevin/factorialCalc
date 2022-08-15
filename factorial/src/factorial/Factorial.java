@@ -6,7 +6,7 @@ public class Factorial {
 
     public static void main(String[] args) {
         Scanner computerKeyboardInput = new Scanner(System.in);
-        int num;
+        long num;
         System.out.println("Enter a non-negative number: ");
         num = computerKeyboardInput.nextInt();
         if (num >= 0) {
@@ -14,8 +14,8 @@ public class Factorial {
         }
     }
 
-    private static int factorial(int n) {
-        int nF; //n factorail
+    private static long factorial(long n) {
+        long nF; //n factorail
         if (n == 1 || n == 0) {
             nF = 1;
         } else {
