@@ -9,7 +9,7 @@ This project is currently hosted on GitHub.  This is not ideal; GitHub is a
 proprietary, trade-secret system that is not Free and Open Souce Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
 to develop our FOSS project.  We have an
-[open email](bellKevin@pm.me) where the
+[open email](bellKevin.me) where the
 project contributors are actively discussing how we can move away from GitHub
 in the long term.  We urge you to read about the
 [Give up GitHub](https://GiveUpGitHub.org) campaign from
@@ -17,7 +17,7 @@ in the long term.  We urge you to read about the
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
 If you are a contributor who personally has already quit using GitHub, please
-[email me](bellKevin@pm.me) for how to send us contributions without
+[email me](bellKevin.me) for how to send us contributions without
 using GitHub directly
 
 Any use of this project's code by GitHub Copilot, past or present, is done
