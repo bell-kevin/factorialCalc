@@ -16,7 +16,7 @@ public class Factorial {
     }
 
     private static long factorial(long n) {
-        long nF; //n factorail
+        long nF; //n factorial
         if (n == 1 || n == 0) //stopping condition
         {
             nF = 1;
