@@ -19,10 +19,10 @@ public class Factorial {
         long nF; //n factorial
         if (n == 1 || n == 0) //stopping condition
         {
-            nF = 1;
+            return 1;
         } else {
-            nF = n * factorial(n - 1); //recursive method call
+            return n * factorial(n - 1); //recursive method call
         }
         return nF;
     }
-}
+} //end factorial
