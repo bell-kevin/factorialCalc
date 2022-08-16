@@ -9,7 +9,7 @@ public class Factorial {
         Scanner computerKeyboardInput = new Scanner(System.in);
         long num;
         System.out.println("Enter a non-negative number: ");
-        num = computerKeyboardInput.nextInt();
+        num = computerKeyboardInput.nextLong();
         if (num >= 0) {
             System.out.println(factorial(num));
         }
