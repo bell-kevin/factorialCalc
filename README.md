@@ -3,6 +3,8 @@ factorial calculator
 
 20! = 2,432,902,008,176,640,000 = 2 quintillion 432 quadrillion 902 trillion 8 billion 176 million 640 thousand
 
+![Factorial.PNG](C:\Users\4800590195\Pictures\factorial.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
