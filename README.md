@@ -18,10 +18,10 @@ some of the reasons why GitHub is not a good place to host FOSS projects.
 
 If you are a contributor who personally has already quit using GitHub, please
 [email me](bellKevin.me) for how to send us contributions without
-using GitHub directly
+using GitHub directly.
 
 Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot
+code in Copilot.
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
